@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link{
+  font-size: 20px;
+}
+
+.active_link{
+  color: blueviolet !important;
+  border-bottom: 1px solid blueviolet;
+}
+
+.active_link:hover{
+  color: blue !important;
+}
+
+.navbar-brand{
+  color: blueviolet !important;
+  font-weight: bold;
+}
+
+.nav_bg{
+  background-color: transparent;
+}
+
+.brand_name{
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.btn_link{
+  padding: 10px 20px;
+  border-radius: 50px;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  background-color: white;
+  text-decoration: none;
+}
+
+.btn_link:hover{
+  color: white;
+  background-color: blueviolet;
+  border: 1px solid white;
+}
+
+.header_img img{
+  border-radius: 8px;
+}
+
+.desc{
+  font-size: 22px;
+}
