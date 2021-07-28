@@ -18,7 +18,7 @@ const Common = (props) =>{
                             </div>
 
                             <div className="col-6 header_img">
-                                <img src={props.imgpath} alt={props.imgpath} width="600px" />
+                                <img src={props.imgpath} alt={props.imgpath} width="800px" heigth="auto" />
                             </div>
                         </div>
                         

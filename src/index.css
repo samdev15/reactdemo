@@ -52,10 +52,18 @@ code {
   border: 1px solid white;
 }
 
-.header_img img{
-  border-radius: 8px;
-}
-
 .desc{
   font-size: 22px;
+}
+
+.header_img img, .card {
+  position: relative;
+  animation-name: up-down;
+  animation-duration: 2s;
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down {
+  0%   {top:10px;}
+  100% {top:-10px;}
 }
