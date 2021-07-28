@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactdemo/static/css/main.2480825a.chunk.css",
+    "main.js": "/reactdemo/static/js/main.7616d535.chunk.js",
+    "main.js.map": "/reactdemo/static/js/main.7616d535.chunk.js.map",
+    "runtime-main.js": "/reactdemo/static/js/runtime-main.d99b4661.js",
+    "runtime-main.js.map": "/reactdemo/static/js/runtime-main.d99b4661.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/reactdemo/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.33278426.chunk.js": "/reactdemo/static/js/2.33278426.chunk.js",
+    "static/js/2.33278426.chunk.js.map": "/reactdemo/static/js/2.33278426.chunk.js.map",
+    "index.html": "/reactdemo/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/reactdemo/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.2480825a.chunk.css.map": "/reactdemo/static/css/main.2480825a.chunk.css.map",
+    "static/js/2.33278426.chunk.js.LICENSE.txt": "/reactdemo/static/js/2.33278426.chunk.js.LICENSE.txt",
+    "static/media/about-us.01663284.png": "/reactdemo/static/media/about-us.01663284.png",
+    "static/media/bg-title-01.015731ab.jpg": "/reactdemo/static/media/bg-title-01.015731ab.jpg",
+    "static/media/digital-marketing.a721084b.jpg": "/reactdemo/static/media/digital-marketing.a721084b.jpg",
+    "static/media/mobile-app-development.f0e99c6d.jpg": "/reactdemo/static/media/mobile-app-development.f0e99c6d.jpg",
+    "static/media/web-development.c0323ba7.jpeg": "/reactdemo/static/media/web-development.c0323ba7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99b4661.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.33278426.chunk.js",
+    "static/css/main.2480825a.chunk.css",
+    "static/js/main.7616d535.chunk.js"
+  ]
+}
